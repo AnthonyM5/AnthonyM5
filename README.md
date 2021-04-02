@@ -22,7 +22,8 @@ Some of my projects are listed in my [portfolio][4].
 
 - 👯 I’m looking to collaborate on open source projects, hackathons, and anything to gain more experience!
 - 🌱 I’m currently learning: C, Python, Flask and more with Harvard's [CS50x][1] 
-- 📫 How to reach me: [LinkedIn][2] || [Twitter][3] || [Email](mailto:"anthony.mai530@gmail.com")
+- 📫 How to reach me: [LinkedIn][2] || [Twitter][3]
+- Check out the [Blog](https://anthonym5.github.io/my-awesome-blog/)
 
 
 [1]:https://cs50.harvard.edu/x/2021/
