@@ -2,14 +2,20 @@
  * @param {number} rowIndex
  * @return {number[]}
  */
-
-let getRow = (rowIndex) => {
-    let rows = rowIndex;
-    let result = new Array(rows + 1);
-    result[0] = result[rows] = 1;
+const getRow = (rowIndex) => {
+    if (rowIndex === 0) return [1]
+    if (rowIndex === 1) return [1, 1]
     
-    for (let i = 1; i < rowIndex; i++, rows--) {
-        result[i] = (result[i - 1] * rows) / i
+    let row = [1, 1]
+    
+    for (let i = 2; i <= rowIndex; i++) {
+        const start = [1]
+        for (let j = 0; j < i - 1; j++) {
+            start.push(row[j + 1] + row[j])
+        }
+        start.push(1)
+        row = start
     }
-    return result;
+    
+    return row
 };
