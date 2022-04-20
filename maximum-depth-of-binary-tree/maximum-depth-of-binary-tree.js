@@ -11,8 +11,10 @@
  * @return {number}
  */
 var maxDepth = function(root) {
-    counter = 0; 
-    if (!root) return counter;
+    counter = 0;
+    
+    if (!root) return counter
     counter++
+    
     return counter + Math.max(maxDepth(root.left), maxDepth(root.right))
 };
