@@ -7,7 +7,9 @@
 
 const isIsomorphic = (s, t) => {
     function isomorphic(s,t) {
+        
         let seen = {}
+        
         for(let i = 0; i < s.length; i++) {
             if(s[i] in seen) {
                 if(seen[s[i]] !== t[i]) {
