@@ -11,7 +11,8 @@
  * @return {ListNode}
  */
 const detectCycle = (head) => {
-    if(!head || !head.next) return null
+if(!head || !head.next) return null
+    
   let p1 = head
   let p2 = head
   let index = head
