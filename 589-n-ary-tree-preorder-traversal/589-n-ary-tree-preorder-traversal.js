@@ -13,14 +13,14 @@
 const preorder = (root) => {
     if(!root) return []
     
-    const dsf = (node) => {
+    const dfs = (node) => {
         let res = []
         res.push(node.val)
         
         if (node.children?.length) {
-            res = res.concat(...node.children.map((v) => dsf(v)))
+            res = res.concat(...node.children.map((v) => dfs(v)))
          }
         return res
     }
-        return dsf(root)
+        return dfs(root)
 };
