@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack Developer and a recent Flatiron School graduate. I am experienced with JavaScript technologies/tools (npm, yarn, built-in functions, fetch) and frameworks (React.js/Redux). My back-end experience is with Ruby Rails. I also have had a little experience with cloud services like Heroku/Netlify to deploy apps, and AWS to spin up a EC2 service to run an Linux distro (Ubuntu). I have had light experience with data and machine learning by utilizing Tensorflow.js models but am excited to be able to learn and work with more technologies/languages.
+I'm an experienced web developer with a background in e-commerce (analyst, admin) and strong background working in web and mobile applications.  I specialize in developing user-centric design and work with modern JavaScript (TypeScript) frameworks like React/Angular to create effective and accessible solutions for the web.  I'm a self taught developer who's passionate about continued learning and building impactful products that unlocks value for the end consumer.  I have proven experience working cross-functionally in Agile environments to help deliver high quality results across multiple industries ranging from education to multi-billion dollar B2B platforms.  As someone who is passionate about learning and tackling challenges I'm always looking for the next opportunity to work with world class teams.  
 
 Some of my projects are listed in my [portfolio][4].
 
-
-- 👯 I’m looking to collaborate on open source projects, hackathons, and anything to gain more experience!
-- 🌱 I’m currently learning: C, Python, Flask and more with Harvard's [CS50x][1] 
+- 🌱 Education
+  - AWS Certified Cloud Practitioner
+  - Google IT Support Professional
+  - Google Data Analytics Professional 
 - 📫 How to reach me: [LinkedIn][2] || [Twitter][3]
 - Check out the [Blog](https://anthonym5.github.io/my-awesome-blog/)
 
-
-[1]:https://cs50.harvard.edu/x/2021/
 [2]:https://www.linkedin.com/in/anthonymai5/
 [3]:https://twitter.com/Anthony76567225
 [4]:anthonym-portfolio.netlify.app
