@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an experienced web developer with a background in e-commerce (analyst, admin) and strong background working in web and mobile applications.  I specialize in developing user-centric design and work with modern JavaScript (TypeScript) frameworks like React/Angular to create effective and accessible solutions for the web.  I'm a self taught developer who's passionate about continued learning and building impactful products that unlocks value for the end consumer.  I have proven experience working cross-functionally in Agile environments to help deliver high quality results across multiple industries ranging from education to multi-billion dollar B2B platforms.  As someone who is passionate about learning and tackling challenges I'm always looking for the next opportunity to work with world class teams.  
+As a Frontend Engineer with over three years of consulting experience at Accenture Song, I’ve had the opportunity to design and deliver scalable, high-performance applications across industries including education, e-commerce, and banking. My work has spanned modern frameworks like Angular with NgRX and React.js, where I’ve led frontend architecture efforts, implemented advanced state management strategies, and developed real-time features using tools like Socket.io and Redis. I’ve maintained and contributed to multiple internal libraries across enterprise codebases using modular architectures and Nx monorepos, ensuring reusability and maintainability at scale. Whether integrating analytics with RxJS and Google Analytics, configuring secure DNS deployments, or resolving high-priority production issues, I bring a solutions-driven mindset and a strong commitment to shipping clean, impactful code. I thrive in cross-functional, Agile teams where collaboration and technical ownership go hand-in-hand.
 
 Some of my projects are listed in my [portfolio][4].
 
@@ -28,4 +28,4 @@ Some of my projects are listed in my [portfolio][4].
 
 [2]:https://www.linkedin.com/in/anthonymai5/
 [3]:https://twitter.com/Anthony76567225
-[4]:anthonym-portfolio.netlify.app
+[4]:https://anthonymportfolio.netlify.app/
