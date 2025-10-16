@@ -29,3 +29,31 @@ Some of my projects are listed in my [portfolio][4].
 [2]:https://www.linkedin.com/in/anthonymai5/
 [3]:https://twitter.com/Anthony76567225
 [4]:https://anthonymportfolio.netlify.app/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
+<!---LeetCode Topics End-->
