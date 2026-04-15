@@ -35,10 +35,12 @@ Some of my projects are listed in my [portfolio][4].
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnthonyM5/AnthonyM5/tree/master/0001-two-sum) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnthonyM5/AnthonyM5/tree/master/0001-two-sum) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
