@@ -36,6 +36,7 @@ Some of my projects are listed in my [portfolio][4].
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnthonyM5/AnthonyM5/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AnthonyM5/AnthonyM5/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/AnthonyM5/AnthonyM5/tree/master/0049-group-anagrams) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Hash Table
@@ -49,6 +50,7 @@ Some of my projects are listed in my [portfolio][4].
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnthonyM5/AnthonyM5/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
@@ -75,4 +77,8 @@ Some of my projects are listed in my [portfolio][4].
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyM5/AnthonyM5/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnthonyM5/AnthonyM5/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
