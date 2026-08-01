@@ -41,6 +41,7 @@ Some of my projects are listed in my [portfolio][4].
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnthonyM5/AnthonyM5/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/AnthonyM5/AnthonyM5/tree/master/0238-product-of-array-except-self) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/AnthonyM5/AnthonyM5/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,12 @@ Some of my projects are listed in my [portfolio][4].
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnthonyM5/AnthonyM5/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AnthonyM5/AnthonyM5/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AnthonyM5/AnthonyM5/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
