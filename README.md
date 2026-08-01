@@ -41,6 +41,7 @@ Some of my projects are listed in my [portfolio][4].
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnthonyM5/AnthonyM5/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AnthonyM5/AnthonyM5/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@ Some of my projects are listed in my [portfolio][4].
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AnthonyM5/AnthonyM5/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
@@ -58,4 +60,8 @@ Some of my projects are listed in my [portfolio][4].
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AnthonyM5/AnthonyM5/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
