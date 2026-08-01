@@ -36,11 +36,13 @@ Some of my projects are listed in my [portfolio][4].
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnthonyM5/AnthonyM5/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AnthonyM5/AnthonyM5/tree/master/0049-group-anagrams) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnthonyM5/AnthonyM5/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AnthonyM5/AnthonyM5/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnthonyM5/AnthonyM5/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyM5/AnthonyM5/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
@@ -51,6 +53,7 @@ Some of my projects are listed in my [portfolio][4].
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AnthonyM5/AnthonyM5/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnthonyM5/AnthonyM5/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
@@ -65,6 +68,7 @@ Some of my projects are listed in my [portfolio][4].
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AnthonyM5/AnthonyM5/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnthonyM5/AnthonyM5/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyM5/AnthonyM5/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
