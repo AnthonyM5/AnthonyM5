@@ -38,6 +38,7 @@ Some of my projects are listed in my [portfolio][4].
 | [0001-two-sum](https://github.com/AnthonyM5/AnthonyM5/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AnthonyM5/AnthonyM5/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/AnthonyM5/AnthonyM5/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/AnthonyM5/AnthonyM5/tree/master/0238-product-of-array-except-self) |
 | [0621-task-scheduler](https://github.com/AnthonyM5/AnthonyM5/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
@@ -81,4 +82,8 @@ Some of my projects are listed in my [portfolio][4].
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnthonyM5/AnthonyM5/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AnthonyM5/AnthonyM5/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
